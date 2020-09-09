@@ -1,0 +1,2 @@
+Assistant URL: https://api.us-south.assistant.watson.cloud.ibm.com/instances/f7925e22-3128-4623-9668-93e2b792a567/v2/assistants/bf8c8bba-3f55-4768-a2ae-02e67f7a333c/sessions
+API key: -qb6kar8pfUYCyBI4cVi9nGxry4JP6N-xHlwQFYRJC4i
