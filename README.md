@@ -2,7 +2,7 @@
 
 This chatbot has been developed as a project part of the Coursera course: AI Powered Chatbot using IBM Watson.
 
-Visit the following links to experience the full potential of my chatbot:
+Visit the following links to experience the full potential of my chatbot, Linus:
 
   https://swagatshubhambhuyan.intelaedu.com/ 
 
